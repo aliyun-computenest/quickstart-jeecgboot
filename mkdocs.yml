@@ -1,3 +1,6 @@
-site_name: Aliyun 计算巢 x Demo
-theme: 
+site_name: Aliyun 计算巢 x JeecgBoot
+theme:
   name: aliyuncomputenest
+nav:
+  - 部署文档: index.md
+  - 部署文档副本: deployment-doc.md

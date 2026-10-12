@@ -1,18 +1,14 @@
-# QuickStart Demo
+# JeecgBoot 计算巢部署
 
-查看服务实例部署在线文档，请访问 [服务实例部署文档](https://aliyun-computenest.github.io/quickstart-demo)
+查看服务实例部署在线文档，请访问 [JeecgBoot 计算巢部署文档](https://aliyun-computenest.github.io/quickstart-jeecgboot/)。
 
-本文档通过 [MkDocs](https://github.com/mkdocs/mkdocs) 生成，请参考[使用文档](https://www.mkdocs.org/getting-started/#installation) 
+本文档通过 [MkDocs](https://www.mkdocs.org/) 生成，使用阿里云计算巢主题。
 
-1）安装和使用：
+## 本地预览
 
 ```shell
-$ pip install mkdocs # or use pip3 安装文档工具
-$ pip install --upgrade mkdocs-aliyun-computenest # or use pip3 安装计算巢主题
-$ mkdocs serve # in root folder
+pip install mkdocs mkdocs-aliyun-computenest
+mkdocs serve
 ```
-2）本地预览：本地在浏览器打开 [http://localhost:8000/](http://localhost:8000/) 。
 
-3）本地新建分支后，提交 `Pull request` 到 `main`分支。
-
-4）合并至 `main` 分支后，查看 pages 部署结果。
+在浏览器打开 [http://localhost:8000/](http://localhost:8000/) 查看文档。
